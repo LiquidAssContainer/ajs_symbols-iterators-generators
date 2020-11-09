@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j8sre5d35rffdf2s?svg=true)](https://ci.appveyor.com/project/LiquidAssContainer/ajs-symbols-iterators-generators)
